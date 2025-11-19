@@ -2,6 +2,7 @@ let age = Number(prompt("Enter your age"));
 let movieType = prompt("Regular or 3D").toLowerCase();
 let time = prompt("Morning or Evening").toLowerCase();
 
+
 function first() {
   let havesaleticket = prompt("Do you have sale ticket").toLowerCase();
   let price = 0;
